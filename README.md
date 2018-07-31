@@ -1,6 +1,9 @@
 # bidding
+
 @author:    Charlene Zhong
+
 @E-mail:    charlenezhong0101@gmail.com
+
 bidding processing
 
 The bidding prcess has seven steps, each step process input files and generate results according to different business logic, the source code and test samples are under each folder
