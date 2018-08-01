@@ -1,0 +1,730 @@
+Part Name,Part Number,a-yyy,b-nyy,c-yny,d-nny,e-yyn,f-nyn,g-ynn,h-nnn
+iPhone 5 16GB AT&T,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 32GB AT&T,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 64GB AT&T,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 16GB Verizon,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 32GB Verizon,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 64GB Verizon,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 16GB T-Mobile,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 32GB T-Mobile,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 64GB T-Mobile,A1428/A1429,1,2,3,4,5,6,7,88
+iPhone 5 16GB s/o,A1428/A1429/A1442,1,2,3,4,5,6,7,88
+iPhone 5 32GB s/o,A1428/A1429/A1442,0,0,0,0,0,0,0,0
+iPhone 5 64GB s/o,A1428/A1429/A1442,0,0,0,0,0,0,0,0
+iPhone 5c 8GB AT&T,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 16GB AT&T,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 32GB AT&T,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 8GB Verizon,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 16GB Verizon,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 32GB Verizon,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 8GB T-Mobile,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 16GB T-Mobile,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 32GB T-Mobile,A1532,0,0,0,0,0,0,0,0
+iPhone 5c 8GB s/o,A1532/A1456/A1507/A1529,0,0,0,0,0,0,0,0
+iPhone 5c 16GB s/o,A1532/A1456/A1507/A1529,0,0,0,0,0,0,0,0
+iPhone 5c 32GB s/o,A1532/A1456/A1507/A1529,0,0,0,0,0,0,0,0
+iPhone 5s 16GB AT&T,A1453/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 32GB AT&T,A1453/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 64GB AT&T,A1453/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 16GB Verizon/Unlocked,A1453/A1533,0,0,0,0,32,0,0,0
+iPhone 5s 32GB Verizon/Unlocked,A1453/A1533,0,0,0,0,32,0,0,0
+iPhone 5s 64GB Verizon/Unlocked,A1453/A1533,0,0,0,0,32,0,0,0
+iPhone 5s 16GB T-Mobile,A1453/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 32GB T-Mobile,A1453/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 64GB T-Mobile,A1453/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 16GB Sprint,A1453/A1457/A1518/A1530/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 32GB Sprint,A1453/A1457/A1518/A1530/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 64GB Sprint,A1453/A1457/A1518/A1530/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 16GB Other,A1453/A1457/A1518/A1530/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 32GB Other,A1453/A1457/A1518/A1530/A1533,0,0,0,0,0,0,0,0
+iPhone 5s 64GB Other,A1453/A1457/A1518/A1530/A1533,0,0,0,0,0,0,0,0
+iPhone SE 16GB AT&T,A1662,0,0,0,0,0,0,0,0
+iPhone SE 32GB AT&T,A1662,0,0,0,0,0,0,0,0
+iPhone SE 64GB AT&T,A1662,0,0,0,0,0,0,0,0
+iPhone SE 128GB AT&T,A1662,0,0,0,0,0,0,0,0
+iPhone SE 16GB Verizon/Unlocked,A1662,0,0,0,0,0,0,0,0
+iPhone SE 32GB Verizon,A1662,0,0,0,0,0,0,0,0
+iPhone SE 64GB Verizon/Unocked,A1662,0,0,0,0,0,0,0,0
+iPhone SE 128GB Verizon,A1662,0,0,0,0,0,0,0,0
+iPhone SE 16GB T-Mobile,A1662,0,0,0,0,0,0,0,0
+iPhone SE 32GB T-Mobile,A1662,0,0,0,0,0,0,0,0
+iPhone SE 64GB T-Mobile,A1662,0,0,0,0,0,0,0,0
+iPhone SE 128GB T-Mobile,A1662,0,0,0,0,0,0,0,0
+iPhone SE 16GB Sprint,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 32GB Sprint,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 64GB Sprint,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 128GB Sprint,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 16GB Other,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 32GB Other,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 64GB Other,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone SE 128GB Other,A1662/A1723/A1724,0,0,0,0,0,0,0,0
+iPhone 6 16GB AT&T,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 32GB AT&T,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 64GB AT&T,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 128GB AT&T,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 16GB Verizon/Unlocked,A1586/A1549,70,0,0,0,62,0,0,0
+iPhone 6 32GB Verizon/Unlocked,A1586/A1549,70,0,0,0,62,0,0,0
+iPhone 6 64GB Verizon/Unlocked,A1586/A1549,80,0,0,0,74,0,0,0
+iPhone 6 128GB Verizon/Unlocked,A1586/A1549,80,0,0,0,74,0,0,0
+iPhone 6 16GB T-Mobile,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 32GB T-Mobile,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 64GB T-Mobile,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 128GB T-Mobile,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 16GB Sprint,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 32GB Sprint,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 64GB Sprint,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 128GB Sprint,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 16GB Other,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 32GB Other,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 64GB Other,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 128GB Other,A1586/A1549,0,0,0,0,0,0,0,0
+iPhone 6 Plus 16GB AT&T,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 64GB AT&T,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 128GB AT&T,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 16GB Verizon/Unlocked,A1522/A1524/A1593,85,0,0,0,70,0,0,0
+iPhone 6 Plus 64GB Verizon/Unlocked,A1522/A1524/A1593,100,0,0,0,85,0,0,0
+iPhone 6 Plus 128GB Verizon/Unlocked,A1522/A1524/A1593,100,0,0,0,85,0,0,0
+iPhone 6 Plus 16GB T-Mobile,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 64GB T-Mobile,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 128GB T-Mobile,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 16GB Sprint,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 64GB Sprint,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 128GB Sprint,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 16GB Other,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 64GB Other,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6 Plus 128GB Other,A1522/A1524/A1593,0,0,0,0,0,0,0,0
+iPhone 6s 16GB AT&T,A1633,64,0,0,0,57,0,0,0
+iPhone 6s 32GB AT&T,A1633,64,0,0,0,57,0,0,0
+iPhone 6s 64GB AT&T,A1633,71,0,0,0,64,0,0,0
+iPhone 6s 128GB AT&T,A1633,71,0,0,0,64,0,0,0
+iPhone 6s 16GB Verizon/Unlocked,A1688,92,0,0,0,77,0,0,0
+iPhone 6s 32GB Verizon/Unlocked,A1688,92,0,0,0,77,0,0,0
+iPhone 6s 64GB Verizon/Unlocked,A1688,107,0,0,0,92,0,0,0
+iPhone 6s 128GB Verizon/Unlocked,A1688,107,0,0,0,92,0,0,0
+iPhone 6s 16GB T-Mobile,A1688,64,0,0,0,57,0,0,0
+iPhone 6s 32GB T-Mobile,A1688,64,0,0,0,57,0,0,0
+iPhone 6s 64GB T-Mobile,A1688,71,0,0,0,64,0,0,0
+iPhone 6s 128GB T-Mobile,A1688,71,0,0,0,64,0,0,0
+iPhone 6s 16GB Sprint,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s 32GB Sprint,A1633/A1688,0,0,0,0,0,0,0,0
+iPhone 6s 64GB Sprint,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s 128GB Sprint,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s 16GB Other,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s 32GB Other,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s 64GB Other,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s 128GB Other,A1633/A1688/A1700,0,0,0,0,0,0,0,0
+iPhone 6s Plus 16GB AT&T,A1634,108,0,0,0,93,0,0,0
+iPhone 6s Plus 32GB AT&T,A1634,108,0,0,0,93,0,0,0
+iPhone 6s Plus 64GB AT&T,A1634,123,0,0,0,108,0,0,0
+iPhone 6s Plus 128GB AT&T,A1634,123,0,0,0,108,0,0,0
+iPhone 6s Plus 16GB Verizon/Unlocked,A1687,131,0,0,0,116,0,0,0
+iPhone 6s Plus 32GB Verizon/Unlocked,A1687,131,0,0,0,116,0,0,0
+iPhone 6s Plus 64GB Verizon/Unlocked,A1687,162,0,0,0,147,0,0,0
+iPhone 6s Plus 128GB Verizon/Unlocked,A1687,162,0,0,0,147,0,0,0
+iPhone 6s Plus 16GB T-Mobile,A1687,108,0,0,0,93,0,0,0
+iPhone 6s Plus 32GB T-Mobile,A1687,108,0,0,0,93,0,0,0
+iPhone 6s Plus 64GB T-Mobile,A1687,123,0,0,0,108,0,0,0
+iPhone 6s Plus 128GB T-Mobile,A1634/A1687,123,0,0,0,108,0,0,0
+iPhone 6s Plus 16GB Sprint,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 6s Plus 32GB Sprint,A1634/A1687,0,0,0,0,0,0,0,0
+iPhone 6s Plus 64GB Sprint,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 6s Plus 128GB Sprint,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 6s Plus 16GB Other,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 6s Plus 32GB Other,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 6s Plus 64GB Other,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 6s Plus 128GB Other,A1634/A1687/A1699,0,0,0,0,0,0,0,0
+iPhone 7 32GB AT&T,A1778,132,0,0,0,109,0,0,0
+iPhone 7 128GB AT&T,A1778,147,0,0,0,124,0,0,0
+iPhone 7 256GB AT&T,A1778,147,0,0,0,124,0,0,0
+iPhone 7 32GB Verizon,A1660,196,0,0,0,171,0,0,0
+iPhone 7 128GB Verizon,A1660,246,0,0,0,221,0,0,0
+iPhone 7 256GB Verizon,A1660,246,0,0,0,221,0,0,0
+iPhone 7 32GB Unlocked,A1660/A1778,196,0,0,0,171,0,0,0
+iPhone 7 128GB Unlocked,A1660/A1778,246,0,0,0,221,0,0,0
+iPhone 7 256GB Unlocked,A1660/A1778,246,0,0,0,221,0,0,0
+iPhone 7 32GB T-Mobile,A1778,0,0,0,0,0,0,0,0
+iPhone 7 128GB T-Mobile,A1778,0,0,0,0,0,0,0,0
+iPhone 7 256GB T-Mobile,A1778,0,0,0,0,0,0,0,0
+iPhone 7 32GB Sprint,A1660/A1778/A1779,0,0,0,0,0,0,0,0
+iPhone 7 128GB Sprint,A1660/A1778/A1779,0,0,0,0,0,0,0,0
+iPhone 7 256GB Sprint,A1660/A1778/A1779,0,0,0,0,0,0,0,0
+iPhone 7 32GB Other,A1660/A1778/A1779,0,0,0,0,0,0,0,0
+iPhone 7 128GB Other,A1660/A1778/A1779,0,0,0,0,0,0,0,0
+iPhone 7 256GB Other,A1660/A1778/A1779,0,0,0,0,0,0,0,0
+iPhone 7 Plus 32GB AT&T,A1784,215,0,0,0,187,0,0,0
+iPhone 7 Plus 128GB AT&T,A1784,246,0,0,0,218,0,0,0
+iPhone 7 Plus 256GB AT&T,A1784,250,0,0,0,218,0,0,0
+iPhone 7 Plus 32GB Verizon,A1661,286,0,0,0,255,0,0,0
+iPhone 7 Plus 128GB Verizon,A1661,332,0,0,0,301,0,0,0
+iPhone 7 Plus 256GB Verizon,A1661,332,0,0,0,301,0,0,0
+iPhone 7 Plus 32GB Unlocked,A1661/A1784,286,0,0,0,255,0,0,0
+iPhone 7 Plus 128GB Unlocked,A1661/A1784,332,0,0,0,301,0,0,0
+iPhone 7 Plus 256GB Unlocked,A1661/A1784,332,0,0,0,301,0,0,0
+iPhone 7 Plus 32GB T-Mobile,A1784,0,0,0,0,0,0,0,0
+iPhone 7 Plus 128GB T-Mobile,A1784,0,0,0,0,0,0,0,0
+iPhone 7 Plus 256GB T-Mobile,A1784,0,0,0,0,0,0,0,0
+iPhone 7 Plus 32GB Sprint,A1661/A1784/A1785,0,0,0,0,0,0,0,0
+iPhone 7 Plus 128GB Sprint,A1661/A1784/A1785,0,0,0,0,0,0,0,0
+iPhone 7 Plus 256GB Sprint,A1661/A1784/A1785,0,0,0,0,0,0,0,0
+iPhone 7 Plus 32GB Other,A1661/A1784/A1785,0,0,0,0,0,0,0,0
+iPhone 7 Plus 128GB Other,A1661/A1784/A1785,0,0,0,0,0,0,0,0
+iPhone 7 Plus 256GB Other,A1661/A1784/A1785,0,0,0,0,0,0,0,0
+iPhone 8 64GB AT&T,A1905,279,0,0,0,248,0,0,0
+iPhone 8 256GB AT&T,A1905,310,0,0,0,279,0,0,0
+iPhone 8 64GB Verizon,A1863,0,0,0,0,0,0,0,0
+iPhone 8 256GB Verizon,A1863,0,0,0,0,0,0,0,0
+iPhone 8 64GB Unlocked,A1863/A1905/A1906,0,0,0,0,0,0,0,0
+iPhone 8 256GB Unlocked,A1863/A1905/A1906,0,0,0,0,0,0,0,0
+iPhone 8 64GB T-Mobile,A1905,279,0,0,0,248,0,0,0
+iPhone 8 256GB T-Mobile,A1905,310,0,0,0,279,0,0,0
+iPhone 8 64GB Sprint,A1863,279,0,0,0,248,0,0,0
+iPhone 8 256GB Sprint,A1863,310,0,0,0,279,0,0,0
+iPhone 8 64GB Other,A1863/A1905/A1906,279,0,0,0,248,0,0,0
+iPhone 8 256GB Other,A1863/A1905/A1906,310,0,0,0,279,0,0,0
+iPhone 8 Plus 64GB AT&T,A1897,341,0,0,0,295,0,0,0
+iPhone 8 Plus 256GB AT&T,A1897,372,0,0,0,326,0,0,0
+iPhone 8 Plus 64GB Verizon,A1864,0,0,0,0,0,0,0,0
+iPhone 8 Plus 256GB Verizon,A1864,0,0,0,0,0,0,0,0
+iPhone 8 Plus 64GB Unlocked,A1864/A1897/A1898,0,0,0,0,0,0,0,0
+iPhone 8 Plus 256GB Unlocked,A1864/A1897/A1898,0,0,0,0,0,0,0,0
+iPhone 8 Plus 64GB T-Mobile,A1897,341,0,0,0,295,0,0,0
+iPhone 8 Plus 256GB T-Mobile,A1897,372,0,0,0,326,0,0,0
+iPhone 8 Plus 64GB Sprint,A1864,341,0,0,0,295,0,0,0
+iPhone 8 Plus 256GB Sprint,A1864,372,0,0,0,326,0,0,0
+iPhone 8 Plus 64GB Other,A1864/A1897/A1898,341,0,0,0,295,0,0,0
+iPhone 8 Plus 256GB Other,A1864/A1897/A1898,372,0,0,0,326,0,0,0
+iPhone X 64GB AT&T,A1901,487,0,0,0,409,0,0,0
+iPhone X 256GB AT&T,A1901,533,0,0,0,455,0,0,0
+iPhone X 64GB Verizon,A1865,0,0,0,0,480,0,0,0
+iPhone X 256GB Verizon,A1865,0,0,0,0,510,0,0,0
+iPhone X 64GB Unlocked,A1865/A1901/A1902,0,0,0,0,480,0,0,0
+iPhone X 256GB Unlocked,A1865/A1901/A1902,0,0,0,0,510,0,0,0
+iPhone X 64GB T-Mobile,A1901,487,0,0,0,409,0,0,0
+iPhone X 256GB T-Mobile,A1901,533,0,0,0,455,0,0,0
+iPhone X 64GB Sprint,A1865,487,0,0,0,409,0,0,0
+iPhone X 256GB Sprint,A1865,533,0,0,0,455,0,0,0
+iPhone X 64GB Other,A1865/A1901/A1902,487,0,0,0,409,0,0,0
+iPhone X 256GB Other,A1865/A1901/A1902,533,0,0,0,455,0,0,0
+iPad 16GB 3G,A1337,0,0,0,0,0,0,0,0
+iPad 16GB WiFi,A1219,0,0,0,0,0,0,0,0
+iPad 32GB 3G,A1337,0,0,0,0,0,0,0,0
+iPad 32GB WiFi,A1219,0,0,0,0,0,0,0,0
+iPad 64GB 3G,A1337,0,0,0,0,0,0,0,0
+iPad 64GB WiFi,A1219,0,0,0,0,0,0,0,0
+iPad 2 16GB AT&T,A1396,0,0,0,0,0,0,0,0
+iPad 2 32GB AT&T,A1396,0,0,0,0,0,0,0,0
+iPad 2 64GB AT&T,A1396,0,0,0,0,0,0,0,0
+iPad 2 16GB Verizon,A1397,0,0,0,0,0,0,0,0
+iPad 2 32GB Verizon,A1397,0,0,0,0,0,0,0,0
+iPad 2 64GB Verizon,A1397,0,0,0,0,0,0,0,0
+iPad 2 16GB WiFi,A1395,0,0,0,0,0,0,0,0
+iPad 2 32GB WiFi,A1395,0,0,0,0,0,0,0,0
+iPad 2 64GB WiFi,A1395,0,0,0,0,0,0,0,0
+iPad 3 16GB AT&T,A1430,0,0,0,0,0,0,0,0
+iPad 3 32GB AT&T,A1430,0,0,0,0,0,0,0,0
+iPad 3 64GB AT&T,A1430,0,0,0,0,0,0,0,0
+iPad 3 16GB Verizon,A1403,0,0,0,0,0,0,0,0
+iPad 3 32GB Verizon,A1403,0,0,0,0,0,0,0,0
+iPad 3 64GB Verizon,A1403,0,0,0,0,0,0,0,0
+iPad 3 16GB WiFi,A1416,0,0,0,0,0,0,0,0
+iPad 3 32GB WiFi,A1416,0,0,0,0,0,0,0,0
+iPad 3 64GB WiFi,A1416,0,0,0,0,0,0,0,0
+iPad 4 16GB AT&T,A1459,0,0,0,0,0,0,0,0
+iPad 4 32GB AT&T,A1459,0,0,0,0,0,0,0,0
+iPad 4 64GB AT&T,A1459,0,0,0,0,0,0,0,0
+iPad 4 128GB AT&T,A1459,0,0,0,0,0,0,0,0
+iPad 4 16GB Verizon,A1460,0,0,0,0,0,0,0,0
+iPad 4 64GB Verizon,A1460,0,0,0,0,0,0,0,0
+iPad 4 32GB Verizon,A1460,0,0,0,0,0,0,0,0
+iPad 4 128GB Verizon,A1460,0,0,0,0,0,0,0,0
+iPad 4 16GB s/o,A1460,0,0,0,0,0,0,0,0
+iPad 4 32GB s/o,A1460,0,0,0,0,0,0,0,0
+iPad 4 64GB s/o,A1460,0,0,0,0,0,0,0,0
+iPad 4 128GB s/o,A1460,0,0,0,0,0,0,0,0
+iPad 4 16GB WiFi,A1458,0,0,0,0,0,0,0,0
+iPad 4 32GB WiFi,A1458,0,0,0,0,0,0,0,0
+iPad 4 64GB WiFi,A1458,0,0,0,0,0,0,0,0
+iPad 4 128GB WiFi,A1458,0,0,0,0,0,0,0,0
+iPad Air 16GB AT&T,A1475,0,0,0,0,0,0,0,0
+iPad Air 32GB AT&T,A1475,0,0,0,0,0,0,0,0
+iPad Air 64GB AT&T,A1475,0,0,0,0,0,0,0,0
+iPad Air 128GB AT&T,A1475,0,0,0,0,0,0,0,0
+iPad Air 16GB Verizon,A1475,0,0,0,0,0,0,0,0
+iPad Air 32GB Verizon,A1475,0,0,0,0,0,0,0,0
+iPad Air 64GB Verizon,A1475,0,0,0,0,0,0,0,0
+iPad Air 128GB Verizon ,A1475,0,0,0,0,0,0,0,0
+iPad Air 16GB T-Mobile,A1475,0,0,0,0,0,0,0,0
+iPad Air 32GB T-Mobile,A1475,0,0,0,0,0,0,0,0
+iPad Air 64GB T-Mobile,A1475,0,0,0,0,0,0,0,0
+iPad Air 128GB T-Mobile ,A1475,0,0,0,0,0,0,0,0
+iPad Air 16GB s/o,A1475/A1476,0,0,0,0,0,0,0,0
+iPad Air 32GB s/o,A1475/A1476,0,0,0,0,0,0,0,0
+iPad Air 64GB s/o,A1475/A1476,0,0,0,0,0,0,0,0
+iPad Air 128GB s/o,A1475/A1476,0,0,0,0,0,0,0,0
+iPad Air 16GB WiFi,A1474,0,0,0,0,0,0,0,0
+iPad Air 32GB WiFi,A1474,0,0,0,0,0,0,0,0
+iPad Air 64GB WiFi,A1474,0,0,0,0,0,0,0,0
+iPad Air 128GB WiFi,A1474,0,0,0,0,0,0,0,0
+iPad Air 2 16GB AT&T,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 64GB AT&T,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 128GB AT&T,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 16GB Verizon,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 32GB Verizon,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 64GB Verizon,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 128GB Verizon,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 16GB T-Mobile,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 64GB T-Mobile,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 128GB T-Mobile,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 16GB s/o,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 64GB s/o,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 128GB s/o,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 16GB WiFi,A1566,0,0,0,0,0,0,0,0
+iPad Air 2 32GB WiFi,A1566,0,0,0,0,0,0,0,0
+iPad Air 2 64GB WiFi,A1566,0,0,0,0,0,0,0,0
+iPad Air 2 128GB WiFi,A1566,0,0,0,0,0,0,0,0
+iPad Air 2 16GB Wi-Fi + Cellular,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 64GB Wi-Fi + Cellular,A1567,0,0,0,0,0,0,0,0
+iPad Air 2 128GB Wi-Fi + Cellular,A1567,0,0,0,0,0,0,0,0
+iPad Mini 16GB AT&T,A1454/A1455,0,0,0,0,0,0,0,0
+iPad Mini 32GB AT&T,A1454/A1455,0,0,0,0,0,0,0,0
+iPad Mini 64GB AT&T,A1454/A1455,0,0,0,0,0,0,0,0
+iPad Mini 16GB Verizon,A1454/A1455,0,0,0,0,0,0,0,0
+iPad Mini 32GB Verizon,A1454/A1455,0,0,0,0,0,0,0,0
+iPad Mini 64GB Verizon,A1454/A1455,0,0,0,0,0,0,0,0
+iPad Mini 16GB T-Mobile,A1454,0,0,0,0,0,0,0,0
+iPad Mini 16GB s/o,A1455,0,0,0,0,0,0,0,0
+iPad Mini 32GB s/o,A1455,0,0,0,0,0,0,0,0
+iPad Mini 64GB s/o,A1455,0,0,0,0,0,0,0,0
+iPad Mini 16GB WiFi,A1432,0,0,0,0,0,0,0,0
+iPad Mini 32GB WiFi,A1432,0,0,0,0,0,0,0,0
+iPad Mini 64GB WiFi,A1432,0,0,0,0,0,0,0,0
+iPad Mini 2 16GB AT&T,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 32GB AT&T,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 64GB AT&T,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 128GB AT&T,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 16GB Verizon,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 32GB Verizon,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 64GB Verizon,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 128GB Verizon,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 16GB T-Mobile,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 32GB T-Mobile,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 64GB T-Mobile,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 128GB T-Mobile,A1490,0,0,0,0,0,0,0,0
+iPad Mini 2 16GB s/o,A1490/A1491,0,0,0,0,0,0,0,0
+iPad Mini 2 32GB s/o,A1490/A1491,0,0,0,0,0,0,0,0
+iPad Mini 2 64GB s/o,A1490/A1491,0,0,0,0,0,0,0,0
+iPad Mini 2 128GB s/o,A1490/A1491,0,0,0,0,0,0,0,0
+iPad Mini 2 16GB WiFi,A1489,0,0,0,0,0,0,0,0
+iPad Mini 2 32GB WiFi,A1489,0,0,0,0,0,0,0,0
+iPad Mini 2 64GB WiFi,A1489,0,0,0,0,0,0,0,0
+iPad Mini 2 128GB WiFi,A1489,0,0,0,0,0,0,0,0
+iPad Mini 3 16GB AT&T,,0,0,0,0,0,0,0,0
+iPad Mini 3 64GB AT&T,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB AT&T,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 16GB Verizon,,0,0,0,0,0,0,0,0
+iPad Mini 3 64GB Verizon,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB Verizon,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 16GB T-Mobile,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 64GB T-Mobile,,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB T-Mobile,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 16GB s/o,A1600/A1601,0,0,0,0,0,0,0,0
+iPad Mini 3 64GB s/o,,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB s/o,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 16GB Wi-Fi only,A1599,0,0,0,0,0,0,0,0
+iPad Mini 3 64GB Wi-Fi only,A1599,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB Wi-Fi only,,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB Wi-Fi only,A1599,0,0,0,0,0,0,0,0
+iPad Mini 3 16GB Wi-Fi + Cellular,A1600,0,0,0,0,0,0,0,0
+iPad Mini 3 64GB Wi-Fi + Cellular,A1600/A1601,0,0,0,0,0,0,0,0
+iPad Mini 3 128GB Wi-Fi + Cellular,A1600/A1601,0,0,0,0,0,0,0,0
+iPad Mini 4 16GB WiFi,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 32GB WiFi,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 64GB WiFi,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 128GB WiFi,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 16GB WiFi + Cellular,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 32GB WiFi + Cellul,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 32GB WiFi + Cellular,A1567,0,0,0,0,0,0,0,0
+iPad Mini 4 64GB WiFi + Cellular,A1550/A1538,0,0,0,0,0,0,0,0
+iPad Mini 4 128GB WiFi + Cellular,A1550/A1538,0,0,0,0,0,0,0,0
+iPad 9.7-inch 32GB Wi-Fi,A1822,0,0,0,0,0,0,0,0
+iPad 9.7-inch 32GB Wi-Fi + Cellular,A1823,0,0,0,0,0,0,0,0
+iPad 9.7-inch 128GB Wi-Fi,A1822,0,0,0,0,0,0,0,0
+iPad 9.7-inch 128GB Wi-Fi + Cellular,A1823,0,0,0,0,0,0,0,0
+"iPad Pro 9.7"" 32GB Wifi Only",A1673,0,0,0,0,0,0,0,0
+"iPad Pro 9.7"" 32GB Wifi + Cellular",A1674,0,0,0,0,0,0,0,0
+"iPad Pro 9.7"" 128GB Wifi Only",A1673,0,0,0,0,0,0,0,0
+"iPad Pro 9.7"" 128GB Wifi + Cellular",A1674,0,0,0,0,0,0,0,0
+"iPad Pro 9.7"" 256GB Wifi Only",A1673,0,0,0,0,0,0,0,0
+"iPad Pro 9.7"" 256GB Wifi + Cellular",A1674,0,0,0,0,0,0,0,0
+"iPad Pro 10.5"" 64GB Wifi",A1701,0,0,0,0,0,0,0,0
+"iPad Pro 10.5"" 256GB Wifi",A1701,0,0,0,0,0,0,0,0
+"iPad Pro 10.5"" 256GB Wifi + Cellular",A1709,0,0,0,0,0,0,0,0
+"iPad Pro 10.5"" 512GB Wifi",A1701,0,0,0,0,0,0,0,0
+"iPad Pro 10.5"" 512GB Wifi + Cellular",A1709,0,0,0,0,0,0,0,0
+"iPad Pro 12.9"" 32GB Wifi Only",A1584,0,0,0,0,0,0,0,0
+"iPad Pro 12.9"" 128GB Wifi Only",A1584,0,0,0,0,0,0,0,0
+"iPad Pro 12.9"" 128GB Wifi + Cellular",A1652,0,0,0,0,0,0,0,0
+"iPad Pro 12.9"" 256GB Wifi Only",A1584,0,0,0,0,0,0,0,0
+"iPad Pro 12.9"" 256GB Wifi + Cellular",A1652,0,0,0,0,0,0,0,0
+"iPad Pro 2 12.9"" 64GB Wifi",A1670,0,0,0,0,0,0,0,0
+"iPad Pro 2 12.9"" 64GB Wifi + Cellular",A1671,0,0,0,0,0,0,0,0
+"iPad Pro 2 12.9"" 256GB Wifi",A1670,0,0,0,0,0,0,0,0
+"iPad Pro 2 12.9"" 256GB Wifi + Cellular",A1671,0,0,0,0,0,0,0,0
+"iPad Pro 2 12.9"" 512GB Wifi",A1670,0,0,0,0,0,0,0,0
+"iPad Pro 2 12.9"" 512GB Wifi + Cellular",A1671,0,0,0,0,0,0,0,0
+iPod Classic G4 20GB Color,A1099 / MP102,0,0,0,0,0,0,0,0
+iPod Classic G4 20GB Click Wheel,A1059,0,0,0,0,0,0,0,0
+iPod Classic G4 20GB U2 Edition,A1059,0,0,0,0,0,0,0,0
+iPod Classic G4 20GB U2 Edition,A1099,0,0,0,0,0,0,0,0
+iPod Classic G4 40GB Click Wheel,A1059,0,0,0,0,0,0,0,0
+iPod Classic G4 30GB Photo (G4r1),A1099/MP7001,0,0,0,0,0,0,0,0
+iPod Classic G4 40GB Photo (G4r1),A1099/MP103,0,0,0,0,0,0,0,0
+iPod Classic G4 60GB Photo (G4r1),A1099/MP7002,0,0,0,0,0,0,0,0
+iPod Classic G4 20GB Color (G4r1),A1099,0,0,0,0,0,0,0,0
+iPod Classic G5 30GB Video,A1136,0,0,0,0,0,0,0,0
+iPod Classic G5 30GB Harry Potter Edition,A1136,0,0,0,0,0,0,0,0
+iPod Classic G5 30GB U2 Edition,A1136,0,0,0,0,0,0,0,0
+iPod Classic G5 60GB Video,A1136,0,0,0,0,0,0,0,0
+iPod Classic G5 80GB,A1136,0,0,0,0,0,0,0,0
+iPod Classic G6 80GB,A1238,0,0,0,0,0,0,0,0
+iPod Classic G6 120GB,A1238,0,0,0,0,0,0,0,0
+iPod Classic G6 160GB,A1238,0,0,0,0,0,0,0,0
+iPod Nano G3 4GB Fat,A1236,0,0,0,0,0,0,0,0
+iPod Nano G3 8GB Fat,A1236,0,0,0,0,0,0,0,0
+iPod Nano G4 4GB,A1285,0,0,0,0,0,0,0,0
+iPod Nano G4 8GB,A1285,0,0,0,0,0,0,0,0
+iPod Nano G4 16GB,A1285,0,0,0,0,0,0,0,0
+iPod Nano G5 8GB Camera,A1320,0,0,0,0,0,0,0,0
+iPod Nano G5 16GB Camera,A1320,0,0,0,0,0,0,0,0
+iPod Nano G6 8GB,A1366,0,0,0,0,0,0,0,0
+iPod Nano G6 16GB,A1366,0,0,0,0,0,0,0,0
+iPod Nano G7 16GB,A1446,0,0,0,0,0,0,0,0
+iPod Touch G4 8GB,A1367,0,0,0,0,0,0,0,0
+iPod Touch G4 16GB,A1367,0,0,0,0,0,0,0,0
+iPod Touch G4 32GB,A1367,0,0,0,0,0,0,0,0
+iPod Touch G4 64GB,A1367,0,0,0,0,0,0,0,0
+iPod Touch G5 32GB,A1421,0,0,0,0,0,0,0,0
+iPod Touch G5 64GB,A1421,0,0,0,0,0,0,0,0
+iPod Touch G5 16GB,A1509,0,0,0,0,0,0,0,0
+iPod Touch G5 16GB,A1421,0,0,0,0,0,0,0,0
+iPod Touch G6 16GB,A1574,0,0,0,0,0,0,0,0
+iPod Touch G6 32GB,A1574,0,0,0,0,0,0,0,0
+iPod Touch G6 64GB,A1574,0,0,0,0,0,0,0,0
+iPod Touch G6 128GB,A1574,0,0,0,0,0,0,0,0
+Desire 610 (AT&T),0P90110,0,0,0,0,0,0,0,0
+Desire 626,(Verizon/Unlocked) HTCD200LVW,0,0,0,0,0,0,0,0
+Desire 626 USA (AT&T),0PM9120,0,0,0,0,0,0,0,0
+Desire 626s,0PM9110,0,0,0,0,0,0,0,0
+Desire 626s (Sprint),0PM9200,0,0,0,0,0,0,0,0
+Desire 626s (T-Mobile),,0,0,0,0,0,0,0,0
+One M7,(T-Mobile) PN07130,0,0,0,0,0,0,0,0
+One M7,PN07120 32GB AT&T,0,0,0,0,0,0,0,0
+One M7,PN07120 32GB,0,0,0,0,0,0,0,0
+One M7,PN07120 AT&T 64GB,0,0,0,0,0,0,0,0
+One M7,AP801CWH Sprint,0,0,0,0,0,0,0,0
+One M7 (Sprint),PN07200,0,0,0,0,0,0,0,0
+One M7 (Verizon),PN07140 801s,0,0,0,0,0,0,0,0
+One M7 Developer Edition 32 GB,PN07110,0,0,0,0,0,0,0,0
+One M7 Developer Edition 64GB,PN07120,0,0,0,0,0,0,0,0
+One M7 Google Play Edition,PN07100 801n,0,0,0,0,0,0,0,0
+One M7 PN7310 (Verizon),6500LVW,0,0,0,0,0,0,0,0
+One M8 (AT&T),0P6B120,0,0,0,0,0,0,0,0
+One M8 (Sprint) 831C,0P6B700,0,0,0,0,0,0,0,0
+One M8 (Sprint) Harman Kardon Edition 831C,0P6B700,0,0,0,0,0,0,0,0
+One M8 (T-Mobile),0P6B130,0,0,0,0,0,0,0,0
+One M8 (Verizon) LTE,HTC6525LVW,0,0,0,0,0,0,0,0
+One M8 Asia,0P6B100,0,0,0,0,0,0,0,0
+One M8 for Windows (AT&T),0P6B180,0,0,0,0,0,0,0,0
+One M8 for Windows (T-Mobile),0P6B140,0,0,0,0,0,0,0,0
+One M8 for Windows (Verizon),6995LVW,0,0,0,0,0,0,0,0
+One M8 Google Play Edition,0P6B170,0,0,0,0,0,0,0,0
+One M8 Unlocked,0P6B160,0,0,0,0,0,0,0,0
+One M8t TD-LTE (China Mobile) 4G Unlocked,,0,0,0,0,0,0,0,0
+One M8x 2014 LTE-A,0P6B110,0,0,0,0,0,0,0,0
+One M9 (AT&T),0PJA110,0,0,0,0,0,0,0,0
+One M9 (Sprint),0PJA200,0,0,0,0,0,0,0,0
+One M9 (T-Mobile),0PJA120,0,0,0,0,0,0,0,0
+One M9 (Verizon),HTC6535LVW,0,0,0,0,0,0,0,0
+One M9 TD-LTE M9u (HTC Hima),0PJA100,0,0,0,0,0,0,0,0
+One M9 Plus,,0,0,0,0,0,0,0,0
+G3 (ACG) US regional carriers,AS985/AS990,0,0,0,0,0,0,0,0
+G3 (AT&T),D850,0,0,0,0,0,0,0,0
+G3 (Sprint),LS990,0,0,0,0,0,0,0,0
+G3 (T-Mobile),D851,0,0,0,0,0,0,0,0
+G3 (US Cellular),US990,0,0,0,0,0,0,0,0
+G3 (Verizon),VS985/W/R/K,0,0,0,0,0,0,0,0
+G3 Europe,D855,0,0,0,0,0,0,0,0
+G4 (AT&T),H810,0,0,0,0,0,0,0,0
+G4 (Sprint),LS991,0,0,0,0,0,0,0,0
+G4 (T-Mobile),H811,0,0,0,0,0,0,0,0
+G4 (US Cellular),US991,0,0,0,0,0,0,0,0
+G4 (Verizon),VS986/VS986W,0,0,0,0,0,0,0,0
+G5,(AT&T) H820,0,0,0,0,0,0,0,0
+G5,(Sprint) LS992,0,0,0,0,0,0,0,0
+G5,(T-Mobile) H830,0,0,0,0,0,0,0,0
+G5,(US Cellular) US992,0,0,0,0,0,0,0,0
+G5,(Verizon/Unlocked) VS987,0,0,0,0,0,0,0,0
+G6 (AT&T),H871,0,0,0,0,0,0,0,0
+G6 (Sprint),LS993,0,0,0,0,0,0,0,0
+G6 (T-Mobile),H872,0,0,0,0,0,0,0,0
+G6 (US Cellular),US997,0,0,0,0,0,0,0,0
+G6 (Verizon),VS988/VS988T,0,0,0,0,0,0,0,0
+G6+ Verizon,VS998,0,0,0,0,0,0,0,0
+Droid RAZR MAXX HD,XT926M,0,0,0,0,0,0,0,0
+Moto G (2013) US 4G LTE,XT1045,0,0,0,0,0,0,0,0
+Droid RAZR HD,XT926,0,0,0,0,0,0,0,0
+Droid Turbo,XT1254,0,0,0,0,0,0,0,0
+Moto G (2014),XT1063,0,0,0,0,0,0,0,0
+Moto X (2014) US Cellular,XT1093,0,0,0,0,0,0,0,0
+Moto G (2013),XT1032,0,0,0,0,0,0,0,0
+Moto X (2013),XT1049,0,0,0,0,0,0,0,0
+Moto G (2013),XT939G,0,0,0,0,0,0,0,0
+Moto G (2014),XT1064,0,0,0,0,0,0,0,0
+Moto X (2014) Verizon,XT1096,0,0,0,0,0,0,0,0
+Droid Maxx 2,XT1565,0,0,0,0,0,0,0,0
+Moto X (2013) (Verizon),XT1060,0,0,0,0,0,0,0,0
+Droid Mini (Verizon),XT1030,0,0,0,0,0,0,0,0
+Droid RAZR,XT912,0,0,0,0,0,0,0,0
+Moto X (2014) Unlocked,XT1095,0,0,0,0,0,0,0,0
+Moto X (2013),XT1058 / XT1056 / XT1055,0,0,0,0,0,0,0,0
+Moto G (2013) Verizon,XT1028,0,0,0,0,0,0,0,0
+Nexus 6 AT&T,XT1103,0,0,0,0,0,0,0,0
+Moto G (2013) (CDMA),XT1031,0,0,0,0,0,0,0,0
+Droid RAZR M,XT907,0,0,0,0,0,0,0,0
+Moto X (2013) CDMA,XT1050,0,0,0,0,0,0,0,0
+DROID MAXX,XT1080M,0,0,0,0,0,0,0,0
+Moto G (2013) 4G LTE,XT1042,0,0,0,0,0,0,0,0
+Droid RAZR Maxx,XT912,0,0,0,0,0,0,0,0
+Moto X (2014) AT&T,XT1097,0,0,0,0,0,0,0,0
+Galaxy Note 10.1 (T-Mobile),SM-P607T,0,0,0,0,0,0,0,0
+Galaxy Note 10.1 Wifi,SM-P600,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch,GT-N8000,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch (2014 Ed),,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch (2014 Ed) (HSPA+ only),,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch (2014 Ed) (WiFi),SM-P600,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch (2014 Ed) Verizon,SM-P605V,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch LTE (2014 Ed) T-Mob,SM-P607T,0,0,0,0,0,0,0,0
+Galaxy Note 10.1-inch LTE US Celular,SCH-I925U,0,0,0,0,0,0,0,0
+Galaxy Note 3,SM-N9000Q,0,0,0,0,0,0,0,0
+Galaxy Note 3,SCL22,0,0,0,0,0,0,0,0
+Galaxy Note 3,SM-N9000ZWEKSA,0,0,0,0,0,0,0,0
+Galaxy Note 3,SM-N900L,0,0,0,0,0,0,0,0
+Galaxy Note 3 (China Mobile) TD LTE,SM-N9008V,0,0,0,0,0,0,0,0
+Galaxy Note 3 (International),SM-N900,0,0,0,0,0,0,0,0
+Galaxy Note 3 AT&T,SM-N900A,0,0,0,0,0,0,0,0
+Galaxy Note 3 CDMA,SM-N9009,0,0,0,0,0,0,0,0
+Galaxy Note 3 Duos,SM-N9002,0,0,0,0,0,0,0,0
+Galaxy Note 3 LTE (CAN-MEX),SM-N900W8,0,0,0,0,0,0,0,0
+Galaxy Note 3 LTE (KT Telecom),SM-N900K,0,0,0,0,0,0,0,0
+Galaxy Note 3 LTE 32G,SM-N9005,0,0,0,0,0,0,0,0
+Galaxy Note 3 LTE-A (SK Telecom),SM-N900S,0,0,0,0,0,0,0,0
+Galaxy Note 3 Neo,SM-N750,0,0,0,0,0,0,0,0
+Galaxy Note 3 Neo,SM-N750K,0,0,0,0,0,0,0,0
+Galaxy Note 3 Neo 4G LTE (International),SM-N7507,0,0,0,0,0,0,0,0
+Galaxy Note 3 Neo 4G LTE+,SM-N7505L,0,0,0,0,0,0,0,0
+Galaxy Note 3 Neo Duos,SM-N7502,0,0,0,0,0,0,0,0
+Galaxy Note 3 Sprint,SM-N900P SPHN900GYK,0,0,0,0,0,0,0,0
+Galaxy Note 3 T-Mobile,SM-N900T,0,0,0,0,0,0,0,0
+Galaxy Note 3 U.S. Cellular,SM-N900R4,0,0,0,0,0,0,0,0
+Galaxy Note 3 Verizon,SM-N900VZKE,0,0,0,0,0,0,0,0
+Galaxy Note 3 WCDMA (China),SM-N9006,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N9100,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N916L,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N910U,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N910L,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N910T3,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N910T2,0,0,0,0,0,0,0,0
+Galaxy Note 4,SM-N910W8,0,0,0,0,0,0,0,0
+Galaxy Note 4 (AT&T),SM-N910A,0,0,0,0,0,0,0,0
+Galaxy Note 4 (Sprint),SM-N910P,0,0,0,0,0,0,0,0
+Galaxy Note 4 (T-Mobile),SM-N910T,0,0,0,0,0,0,0,0
+Galaxy Note 4 (UK),SM-N910F,0,0,0,0,0,0,0,0
+Galaxy Note 4 (US Cellular),SM-N910R4,0,0,0,0,0,0,0,0
+Galaxy Note 4 (Verizon),SM-N910V,0,0,0,0,0,0,0,0
+Galaxy Note 4 HSPA (Asia-Pacific),SM-N910H,0,0,0,0,0,0,0,0
+Galaxy Note 4 LTE,SM-N910C,0,0,0,0,0,0,0,0
+Galaxy Note 4 LTE (Korea),SM-N910K/L/S,0,0,0,0,0,0,0,0
+Galaxy Note 4 LTE 4G+ International,SM-N910G,0,0,0,0,0,0,0,0
+Galaxy Note 5,SM-N920I/N920G/N920K/N920W8/N9200,0,0,0,0,0,0,0,0
+Galaxy Note 5,SM-N920R6/SM-N920L,0,0,0,0,0,0,0,0
+Galaxy Note 5,SM-N920S,0,0,0,0,0,0,0,0
+Galaxy Note 5,SM-N920F,0,0,0,0,0,0,0,0
+Galaxy Note 5 (AT&T),SM-N920A,0,0,0,0,0,0,0,0
+Galaxy Note 5 (C Spire),SM-N920R7,0,0,0,0,0,0,0,0
+Galaxy Note 5 (Sprint),SM-N920P,0,0,0,0,0,0,0,0
+Galaxy Note 5 (T-Mobile),SM-N920T,0,0,0,0,0,0,0,0
+Galaxy Note 5 (Unlocked),SM-N920C,0,0,0,0,0,0,0,0
+Galaxy Note 5 (US Cellular),SM-N920R4,0,0,0,0,0,0,0,0
+Galaxy Note 5 (Verizon),SM-N920V,0,0,0,0,0,0,0,0
+Galaxy Note 7 (AT&T),SM-N930A,0,0,0,0,0,0,0,0
+Galaxy Note 7 (Other),SM-N930R4 / F,0,0,0,0,0,0,0,0
+Galaxy Note 7 (Sprint),SM-N930P,0,0,0,0,0,0,0,0
+Galaxy Note 7 (T-Mobile),SM-N930T,0,0,0,0,0,0,0,0
+Galaxy Note 7 (Unlocked),SM-N930G / W8,0,0,0,0,0,0,0,0
+Galaxy Note 7 (Verizon),SM-N930V,0,0,0,0,0,0,0,0
+Galaxy Note 8 AT&T,SM-N950A,0,0,0,0,0,0,0,0
+Galaxy Note 8 Sprint,SM-N950P,0,0,0,0,0,0,0,0
+Galaxy Note 8 T-Mobile,SM-N950T,0,0,0,0,0,0,0,0
+Galaxy Note 8 Verizon,SM-N950V/SM-N950U,0,0,0,0,0,0,0,0
+Galaxy Note 8.0,GT-N5100 / GT-N5110 (Wi-Fi),0,0,0,0,0,0,0,0
+Galaxy Note 8.0,(AT&T) SGH-I467,0,0,0,0,0,0,0,0
+Galaxy Note CDMA2000,SCH-i889,0,0,0,0,0,0,0,0
+Galaxy Note Edge,SM-N915K,0,0,0,0,0,0,0,0
+Galaxy Note Edge,SM-N915L,0,0,0,0,0,0,0,0
+Galaxy Note Edge (AT&T),SM-N915A,0,0,0,0,0,0,0,0
+Galaxy Note Edge (International),SM-N915F,0,0,0,0,0,0,0,0
+Galaxy Note Edge (Sprint),SM-N915P,0,0,0,0,0,0,0,0
+Galaxy Note Edge (T-Mobile),SM-N915T,0,0,0,0,0,0,0,0
+Galaxy Note Edge (US Cellular),SM-N915R4,0,0,0,0,0,0,0,0
+Galaxy Note Edge (Verizon),SM-N915VZ,0,0,0,0,0,0,0,0
+Galaxy Note Edge TD-LTE,SM-N915G,0,0,0,0,0,0,0,0
+Galaxy S4,SGH-I337 (AT&T),0,0,0,0,0,0,0,0
+Galaxy S4,SGH-M919 (T-Mobile),0,0,0,0,0,0,0,0
+Galaxy S4,SCH-R970 (US Cellular),0,0,0,0,0,0,0,0
+Galaxy S4,GT-i9500,0,0,0,0,0,0,0,0
+Galaxy S4,SCH-R970X (C Spire),0,0,0,0,0,0,0,0
+Galaxy S4,SCH-R970C (Cricket),0,0,0,0,0,0,0,0
+Galaxy S4,GT-i9505 (LTE),0,0,0,0,0,0,0,0
+Galaxy S4,SHV-E300S (SK Telecom South Korea),0,0,0,0,0,0,0,0
+Galaxy S4,SGH-M919N (MetroPCS),0,0,0,0,0,0,0,0
+Galaxy S4,SGH-M919V (Nextel),0,0,0,0,0,0,0,0
+Galaxy S4,SCH-i545L,0,0,0,0,0,0,0,0
+Galaxy S4,GT-I9507,0,0,0,0,0,0,0,0
+Galaxy S4,SCH-I959,0,0,0,0,0,0,0,0
+Galaxy S4 (AIO Wireless),SGH-I337Z,0,0,0,0,0,0,0,0
+Galaxy S4 (Sprint Tri-band),SPH-L720T,0,0,0,0,0,0,0,0
+Galaxy S4 (Sprint),SPH-L720,0,0,0,0,0,0,0,0
+Galaxy S4 (Verizon-Prepaid),SCH-I545PP,0,0,0,0,0,0,0,0
+Galaxy S4 (Verizon),SCH-i545/SCH-i545V,0,0,0,0,0,0,0,0
+Galaxy S4 4G LTE (Tracfone),SGH-S970G,0,0,0,0,0,0,0,0
+Galaxy S4 Active,I9295,0,0,0,0,0,0,0,0
+Galaxy S4 Active,SGH-I537,0,0,0,0,0,0,0,0
+Galaxy S4 Active (SK Telecom Korea),SHV-E470S,0,0,0,0,0,0,0,0
+Galaxy S4 CDMA-EVDO (Sprint),SPH-L720ZBS,0,0,0,0,0,0,0,0
+Galaxy S4 Duos,GT-I9502 (China),0,0,0,0,0,0,0,0
+Galaxy S4 Duos (China Mobil),GT-I9508,0,0,0,0,0,0,0,0
+Galaxy S4 Google Play Ed,GT-i9505G,0,0,0,0,0,0,0,0
+Galaxy S4 International LTE,GT-I9506,0,0,0,0,0,0,0,0
+Galaxy S4 LTE,SHV-E300K/ SHV-E300L (Korea),0,0,0,0,0,0,0,0
+Galaxy S4 LTE,SGH-I337M (Canada),0,0,0,0,0,0,0,0
+Galaxy S4 LTE Tracfone,SM-S975L (GP),0,0,0,0,0,0,0,0
+Galaxy S4 LTE-A (SK Telecom),SHV-E330S/K/L,0,0,0,0,0,0,0,0
+Galaxy S4 Mini,GT-i9190,0,0,0,0,0,0,0,0
+Galaxy S4 Mini (AT&T),SGH-I257,0,0,0,0,0,0,0,0
+Galaxy S4 Mini (Sprint),SPH-L520,0,0,0,0,0,0,0,0
+Galaxy S4 Mini (US Cellular),SCH-R890,0,0,0,0,0,0,0,0
+Galaxy S4 Mini (Verizon),SCH-I435 / SCH-I435L,0,0,0,0,0,0,0,0
+Galaxy S4 Mini Duos,GT-I9192,0,0,0,0,0,0,0,0
+Galaxy S4 Mini LTE,SHV-E370K,0,0,0,0,0,0,0,0
+Galaxy S4 Mini LTE (Tracfone),SM-S890L,0,0,0,0,0,0,0,0
+Galaxy S4 Mini LTE NFC Enabled,GT-I9195,0,0,0,0,0,0,0,0
+Galaxy S4 Value Edition,GT-I9515/GT-I9515L,0,0,0,0,0,0,0,0
+Galaxy S4 Zoom,SM-C1010,0,0,0,0,0,0,0,0
+Galaxy S4 Zoom,SM-C105A (AT&T),0,0,0,0,0,0,0,0
+Galaxy S5,SM-G9006V,0,0,0,0,0,0,0,0
+Galaxy S5,SM-S903VL,0,0,0,0,0,0,0,0
+Galaxy S5 (Asia),SM-G900I,0,0,0,0,0,0,0,0
+Galaxy S5 (AT&T),SM-G900A,0,0,0,0,0,0,0,0
+Galaxy S5 (Canada),SM-G900W8,0,0,0,0,0,0,0,0
+Galaxy S5 (Cricket),SM-G900AZ,0,0,0,0,0,0,0,0
+Galaxy S5 (Europe),SM-G900F/SM-G900H,0,0,0,0,0,0,0,0
+Galaxy S5 (Korea),SM-G900K/G900L/G900S,0,0,0,0,0,0,0,0
+Galaxy S5 (Metro PCS),SM-G900T1,0,0,0,0,0,0,0,0
+Galaxy S5 (Sprint),SM-G900P,0,0,0,0,0,0,0,0
+Galaxy S5 (T-Mobile),SM-G900T/SM-G900T3,0,0,0,0,0,0,0,0
+Galaxy S5 (Tracfone),SM-S902L (GP),0,0,0,0,0,0,0,0
+Galaxy S5 (US Cellular),SM-G900R4,0,0,0,0,0,0,0,0
+Galaxy S5 (Verizon),SM-G900V,0,0,0,0,0,0,0,0
+Galaxy S5 (Vodafone),SM-G900M,0,0,0,0,0,0,0,0
+Galaxy S5 Active AT&T,SM-G870A,0,0,0,0,0,0,0,0
+Galaxy S5 CDMA,SM-G900R6,0,0,0,0,0,0,0,0
+Galaxy S5 LTE-A,SM-G906S,0,0,0,0,0,0,0,0
+Galaxy S5 LTE-A (C Spire),SM-G900R7,0,0,0,0,0,0,0,0
+Galaxy S5 LTE-A (Korea),SM-G906K,0,0,0,0,0,0,0,0
+Galaxy S5 LTE-A (Korea),SM-G906L,0,0,0,0,0,0,0,0
+Galaxy S5 LTE-A Duos,SM-G900FD,0,0,0,0,0,0,0,0
+Galaxy S5 LTE-A Europe (T-Mobile),SM-G901F,0,0,0,0,0,0,0,0
+Galaxy S5 Mini (AT&T),SM-G800A,0,0,0,0,0,0,0,0
+Galaxy S5 Mini (for Europe),SM-G800F,0,0,0,0,0,0,0,0
+Galaxy S5 Mini (US Cellular),SM-G800R4,0,0,0,0,0,0,0,0
+Galaxy S5 Mini Duos,SM-G800H/DS,0,0,0,0,0,0,0,0
+Galaxy S5 Neo,SM-G903F,0,0,0,0,0,0,0,0
+Galaxy S5 Neo,SM-G903W,0,0,0,0,0,0,0,0
+Galaxy S5 New Edition,SM-G903M/DS,0,0,0,0,0,0,0,0
+Galaxy S5 Sport Sprint,SM-G860P,0,0,0,0,0,0,0,0
+Galaxy S6,SM-G920R6,0,0,0,0,0,0,0,0
+Galaxy S6,SM-G920L,0,0,0,0,0,0,0,0
+Galaxy S6,SM-G920S,0,0,0,0,0,0,0,0
+Galaxy S6,SM-G920K,0,0,0,0,0,0,0,0
+Galaxy S6,SC-05G,0,0,0,0,0,0,0,0
+Galaxy S6 (Tracfone),SM-S906L/SM-S907VL,0,0,0,0,0,0,0,0
+Galaxy S6 (unlocked),SM-G9200,0,0,0,0,0,0,0,0
+Galaxy S6 Active (AT&T),SM-G890A,0,0,0,0,0,0,0,0
+Galaxy S6 AT&T,SM-G920A,0,0,0,0,0,0,0,0
+Galaxy S6 C Spire,SM-G920R7,0,0,0,0,0,0,0,0
+Galaxy S6 Canada,SM-G920W8,0,0,0,0,0,0,0,0
+Galaxy S6 Cricket,SM-G920AZ,0,0,0,0,0,0,0,0
+Galaxy S6 Edge,SM-G925L,0,0,0,0,0,0,0,0
+Galaxy S6 Edge,SC-04G,0,0,0,0,0,0,0,0
+Galaxy S6 Edge,SM-G925K,0,0,0,0,0,0,0,0
+Galaxy S6 Edge,SM-G925J/SCV31,0,0,0,0,0,0,0,0
+Galaxy S6 Edge (Cellcom),SM-G925R6,0,0,0,0,0,0,0,0
+Galaxy S6 Edge AT&T,SM-G925A,0,0,0,0,0,0,0,0
+Galaxy S6 Edge Canada,SM-G925W8,0,0,0,0,0,0,0,0
+Galaxy S6 Edge Europe,SM-G925F,0,0,0,0,0,0,0,0
+Galaxy S6 Edge LTE-A C Spire,SM-G925R7,0,0,0,0,0,0,0,0
+Galaxy S6 Edge LTE-A International,SM-G925I,0,0,0,0,0,0,0,0
+Galaxy S6 Edge Sprint,SM-G925P,0,0,0,0,0,0,0,0
+Galaxy S6 Edge T-Mobile,SM-G925T,0,0,0,0,0,0,0,0
+Galaxy S6 Edge TD-LTE (HK China),SM-G9250,0,0,0,0,0,0,0,0
+Galaxy S6 Edge US Cellular,SM-G925R4,0,0,0,0,0,0,0,0
+Galaxy S6 Edge Verizon,SM-G925V,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+,SM-G928G,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+,SM-G928I,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+,SM-G928C,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+ (AT&T),SM-G928A,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+ (Sprint),SM-G928P,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+ (T-Mobile),SM-G928T,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+ (US Cellular),SM-G928R4,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+ (Verizon),SM-G928V,0,0,0,0,0,0,0,0
+Galaxy S6 Edge+ Duos,SM-G9287,0,0,0,0,0,0,0,0
+Galaxy S6 Europe,SM-G920F,0,0,0,0,0,0,0,0
+Galaxy S6 International,SM-G920I,0,0,0,0,0,0,0,0
+Galaxy S6 MetroPCS,SM-G920T1,0,0,0,0,0,0,0,0
+Galaxy S6 Sprint,SM-G920P,0,0,0,0,0,0,0,0
+Galaxy S6 T-Mobile,SM-G920T,0,0,0,0,0,0,0,0
+Galaxy S6 US Cellular,SM-G920R4,0,0,0,0,0,0,0,0
+Galaxy S6 Verizon,SM-G920V,0,0,0,0,0,0,0,0
+Galaxy S7,SM-G930F/SM-G930FD/SM-G930L,0,0,0,0,0,0,0,0
+Galaxy S7,SM-G930W8,0,0,0,0,0,0,0,0
+Galaxy S7,SM-G930K,0,0,0,0,0,0,0,0
+Galaxy S7 (AT&T),SM-G930A,0,0,0,0,0,0,0,0
+Galaxy S7 (C Spire),SM-G930R7,0,0,0,0,0,0,0,0
+Galaxy S7 (Cricket),SM-G930AZ,0,0,0,0,0,0,0,0
+Galaxy S7 (MetroPCS),SM-G930T1,0,0,0,0,0,0,0,0
+Galaxy S7 (Sprint),SM-G930P,0,0,0,0,0,0,0,0
+Galaxy S7 (Straight Talk),SM-G930VL,0,0,0,0,0,0,0,0
+Galaxy S7 (T-Mobile),SM-G930T,0,0,0,0,0,0,0,0
+Galaxy S7 (US Cellular),SM-G930R4,0,0,0,0,0,0,0,0
+Galaxy S7 (Verizon),SM-G930V/SM-G930U/SM-G930R6,0,0,0,0,0,0,0,0
+Galaxy S7 Active (AT&T),SM-G891A,0,0,0,0,0,0,0,0
+Galaxy S7 Edge,SM-G935F/SM-G935FD,0,0,0,0,0,0,0,0
+Galaxy S7 Edge,SM-G935S,0,0,0,0,0,0,0,0
+Galaxy S7 Edge,SM-G935W8,0,0,0,0,0,0,0,0
+Galaxy S7 Edge,SM-G935L,0,0,0,0,0,0,0,0
+Galaxy S7 Edge (AT&T),SM-G935A,0,0,0,0,0,0,0,0
+Galaxy S7 Edge (Sprint),SM-G935P,0,0,0,0,0,0,0,0
+Galaxy S7 Edge (T-Mobile),SM-G935T,0,0,0,0,0,0,0,0
+Galaxy S7 Edge (US Cellular),SM-G935R4,0,0,0,0,0,0,0,0
+Galaxy S7 Edge (Verizon),SM-G935V/SM-G935U,0,0,0,0,0,0,0,0
+Galaxy S8,SM-G950F,0,0,0,0,0,0,0,0
+Galaxy S8 Active,SM-G892A,0,0,0,0,0,0,0,0
+Galaxy S8 AT&T,SM-G950A,0,0,0,0,0,0,0,0
+Galaxy S8 Sprint,SM-G950P,0,0,0,0,0,0,0,0
+Galaxy S8 T-Mobile,SM-G950T,0,0,0,0,0,0,0,0
+Galaxy S8 Verizon,SM-G950V/SM-G950U,0,0,0,0,0,0,0,0
+Galaxy S8+,SM-G955F,0,0,0,0,0,0,0,0
+Galaxy S8+ AT&T,SM-G955A,0,0,0,0,0,0,0,0
+Galaxy S8+ Sprint,SM-G955P,0,0,0,0,0,0,0,0
+Galaxy S8+ T-Mobile,SM-G955T,0,0,0,0,0,0,0,0
+Galaxy S8+ Verizon,SM-G955V/SM-G955U,0,0,0,0,0,0,0,0
